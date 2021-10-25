@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfF+5NjLxsN5vlDPYqgn9nQg+rzPN5VXFea4ku19U2HecT1SWzBTyP1sNQCl9IBx8qffpdUKmvF9SHNE6gWO1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gayatri.deshpande\\Documents\\GitHub\\assignment_thinkbridge_gayatrid\\TB_assignment\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\gayatri.deshpande\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.1700\\selenium.webdriver.chromedriver.95.0.4638.1700.nupkg.sha512"
+  ],
+  "logs": []
+}
